@@ -280,6 +280,12 @@ footer p:nth-child(2){
 	text-align: center;
 	line-height: 26px;
 }
+.footer h2{
+	color: white;
+	font-size: 75px;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
 .social{
 	display: flex;
 }
